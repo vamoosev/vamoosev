@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am a finnish student <br>
-Devices:<br> - Desktop: Ryzen 5900x, Radeon 7900xt, 32gb RAM (Windows 10)<br> - Laptop 1: HP Elitebook 840 G4, 8GB RAM (MacOS Sequoia)<br> - Laptop 2: ThinkPad T480s, 24GB RAM (Windows 11)
+Devices:<br> - Desktop: Ryzen 5900x, Radeon 7900xt, 32gb RAM (Windows 11)<br> - Laptop 1: HP Elitebook 840 G4, 8GB RAM (MacOS Sequoia)<br> - Laptop 2: ThinkPad T480s, 24GB RAM (Windows 11)
 
 
 # 💻 Stuff I know how to use:
